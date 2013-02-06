@@ -1,0 +1,5 @@
+There 582 in the /usr/bin directory
+The highest memory usage is the user whoopsie with the command whoopsie 35.7% memory usage
+The timezone for my server is Central Standard Time
+There are seven default groups in my install
+When I execute the script I get: 0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181 - which of course is the Fibonacci sequence.
